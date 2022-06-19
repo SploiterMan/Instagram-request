@@ -1,2 +1,2 @@
-username = 'naser_0020'
-password = '09143710020'
+username = 'usr'
+password = 'psw'
